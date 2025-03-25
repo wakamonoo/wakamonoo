@@ -57,7 +57,7 @@
 
 ###
 
-<div align="left" style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap; width: 100%;">
+<div align="left" style="display: flex; align-items: left; gap: 40px; flex-wrap: wrap; width: 100%;">
   <a href="https://open.spotify.com/user/31p7vqlhw3nqeorj2osqg2lohbea">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31p7vqlhw3nqeorj2osqg2lohbea&count=5" height="200" width="350" alt="Spotify recently played" />
   </a>
