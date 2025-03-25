@@ -1,6 +1,7 @@
 <h2 align="left">Hello! I'm Joven Bataller<br>📚 IT Student | 💻 Software Developer | 🚀 Technical Innovator<br><br>Passionate about designing robust digital solutions and leveraging technology to solve real-world challenges. Specializing in end-to-end software development with a focus on scalable architectures and user-centric design.</h2>
 
-[👉 Check out my portfolio!](https://jovenbataller21.vercel.app)
+[![Portfolio](https://img.shields.io/badge/👉%20Check%20out%20my%20portfolio!-0077B5?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://your-link-here.com)
+
 ###
 
 <div align="left">
