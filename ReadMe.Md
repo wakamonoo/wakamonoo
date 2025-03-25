@@ -8,12 +8,12 @@
   👉 Check out my portfolio!
 </a>
 ###
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=wakamonoo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=wakamonoo&locale=en&mode=daily&theme=synthwave&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wakamonoo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=synthwave&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=wakamonoo&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
