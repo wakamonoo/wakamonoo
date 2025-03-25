@@ -1,12 +1,7 @@
 <h2 align="left">Hello! I'm Joven Bataller<br>📚 IT Student | 💻 Software Developer | 🚀 Technical Innovator<br><br>Passionate about designing robust digital solutions and leveraging technology to solve real-world challenges. Specializing in end-to-end software development with a focus on scalable architectures and user-centric design.</h2>
 
-<a href="https://your-link-here.com" align="left" 
-   style="display: inline-block; padding: 10px 20px; font-size: 16px; 
-          color: white; background-color: #0077B5; text-decoration: none; 
-          font-weight: bold; border-radius: 5px; transition: 0.3s ease-in-out;
-          margin-bottom: 20px;">
-  👉 Check out my portfolio!
-</a>
+[![Portfolio](https://img.shields.io/badge/👉%20Check%20out%20my%20portfolio!-0077B5?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://your-link-here.com)
+
 
 
 <div align="left">
@@ -57,7 +52,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/wakamonoo/wakamonoo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/wakamonoo/wakamonoo/output/snake.svg" alt="Snake animation" width="100%" />
+
 
 ###
 
