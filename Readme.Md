@@ -66,10 +66,11 @@
 
 ###
 
-<div align="left">
+<div align="center" style="width: 100%;">
   <a href="https://open.spotify.com/user/31p7vqlhw3nqeorj2osqg2lohbea">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31p7vqlhw3nqeorj2osqg2lohbea&count=5" width ="100" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31p7vqlhw3nqeorj2osqg2lohbea&count=5" width="100%" alt="Spotify recently played" />
   </a>
 </div>
+
 
 ###
