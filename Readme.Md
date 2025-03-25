@@ -57,18 +57,21 @@
 
 ###
 
-<div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap; max-width: fit-content;">
+<div align="left" style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;">
   <a href="https://open.spotify.com/user/31p7vqlhw3nqeorj2osqg2lohbea">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31p7vqlhw3nqeorj2osqg2lohbea&count=5" height="200" width="350" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31p7vqlhw3nqeorj2osqg2lohbea&count=5" height="200" alt="Spotify recently played" />
   </a>
-
+  
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejgxN3FsdXR6YW5sNmgxcHB0dmdrdnZhZ3h4eWlsYWptM2owczgxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/omHPYZttAVAAw/giphy.gif" />
-
-  <img height="200" src="https://media.giphy.com/media/eDQSdixgEvsZ2/giphy.gif?cid=ecf05e471nod8gfl1b33ns4pw1wcvxhv37578dxk771wvft0&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+  
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnp2YWJlYnNpd2s2am5kYjdqZXEzenk5anJ0NjdoM2pyZ3RsNXhseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46C9Wq7bgyk0uZwY/giphy.gif" />
 </div>
 
 
 
-<div align="left" style="margin-top: 20px;">
+
+<div align="left" style="display: flex; align-items: center; gap: 10px; margin-top: 20px;">
+  <h2 style="font-size: 18px; color: #0077B5; font-weight: bold; margin: 0;">WAKAMONOO VISIT COUNT:</h2>
   <img src="https://profile-counter.glitch.me/wakamonoo/count.svg?" />
 </div>
+
