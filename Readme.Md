@@ -57,12 +57,13 @@
 
 ###
 
-<div align="left" style="display: flex; align-items: left; gap: 40px; flex-wrap: wrap; width: 100%;">
+<div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap; width: 100%; margin-left: 0;">
   <a href="https://open.spotify.com/user/31p7vqlhw3nqeorj2osqg2lohbea">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31p7vqlhw3nqeorj2osqg2lohbea&count=5" height="200" width="350" alt="Spotify recently played" />
   </a>
   <img height="200" src="https://media.giphy.com/media/eDQSdixgEvsZ2/giphy.gif?cid=ecf05e471nod8gfl1b33ns4pw1wcvxhv37578dxk771wvft0&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 </div>
+
 
 <div align="left" style="margin-top: 20px;">
   <img src="https://profile-counter.glitch.me/wakamonoo/count.svg?" />
