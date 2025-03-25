@@ -1,6 +1,8 @@
 <h2 align="left">Hello! I'm Joven Bataller<br>📚 IT Student | 💻 Software Developer | 🚀 Technical Innovator<br><br>Passionate about designing robust digital solutions and leveraging technology to solve real-world challenges. Specializing in end-to-end software development with a focus on scalable architectures and user-centric design.</h2>
 
-###
+<a href="jovenbataller21.vercel.app" align="left" style="display: block; margin-bottom: 15px; font-size: 16px; color: #0077B5; text-decoration: none; font-weight: bold;">
+  👉 Check out my portfolio!
+</a>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=wakamonoo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -54,13 +56,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/wakamonoo/count.svg?"  />
-</div>
-
-###
-
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div align="left" style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img height="200" src="https://media.giphy.com/media/eDQSdixgEvsZ2/giphy.gif?cid=ecf05e471nod8gfl1b33ns4pw1wcvxhv37578dxk771wvft0&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
   <a href="https://open.spotify.com/user/31p7vqlhw3nqeorj2osqg2lohbea">
@@ -68,6 +64,6 @@
   </a>
 </div>
 
-
-
-###
+<div align="left" style="margin-top: 20px;">
+  <img src="https://profile-counter.glitch.me/wakamonoo/count.svg?" />
+</div>
