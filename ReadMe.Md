@@ -1,6 +1,6 @@
 <h2 align="left">Hello! I'm Joven Bataller<br>📚 IT Student | 💻 Software Developer | 🚀 Technical Innovator<br><br>Passionate about designing robust digital solutions and leveraging technology to solve real-world challenges. Specializing in end-to-end software development with a focus on scalable architectures and user-centric design.</h2>
 
-<a href="jovenbataller21.vercel.app" align="left" 
+<a href="https://jovenbataller21.vercel.app" align="left" 
    style="display: inline-block; padding: 10px 20px; font-size: 16px; 
           color: white; background-color: #0077B5; text-decoration: none; 
           font-weight: bold; border-radius: 5px; transition: 0.3s ease-in-out;
@@ -9,14 +9,14 @@
 </a>
 ###
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=wakamonoo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=wakamonoo&locale=en&mode=daily&theme=synthwave&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wakamonoo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=synthwave&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=wakamonoo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=wakamonoo&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wakamonoo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=wakamonoo&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=wakamonoo&limit=5&theme=radical&combine_all_yearly_contributions=true)
 ###
 
 <div align="left">
