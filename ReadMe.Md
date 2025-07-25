@@ -2,11 +2,11 @@
     Hello! I'm Joven Bataller
 </h2>
 <h4 align="left">
-    📚 IT Student | 💻 Software Developer | 🚀 Technical Innovator
+    📚 IT Graduate | 💻 Web Developer | 🚀 Technical Innovator
 </h4>
 <h5 align="left">
     Passionate about designing robust digital solutions and leveraging technology to solve real-world challenges.  
-    <br>Specializing in end-to-end software development with a focus on scalable architectures and user-centric design.
+    <br>Specializing in end-to-end website development with a focus on scalable architectures and user-centric design.
 </h5>
 
 [![Portfolio](https://img.shields.io/badge/👉%20Check%20out%20my%20portfolio!-0077B5?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://wakamonoo.vercel.app/)
